@@ -1,0 +1,21 @@
+# Local builds, signing identities, device logs and screenshots
+.local/
+build/
+artifacts/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.log
+.env
+.env.*
+!.env.example
+local.properties
+.DS_Store
+__pycache__/
+# Personal wallpapers are not licensed for redistribution.
+app/res/drawable-nodpi/wall_*.jpg
+app/res/drawable-nodpi/wall_*.jpeg
+app/res/drawable-nodpi/wall_*.png
+# Machine-specific historical recovery script
+restore-optional-apps.sh
