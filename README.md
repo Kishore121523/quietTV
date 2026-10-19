@@ -2,6 +2,14 @@
 
 A small, native Android TV launcher that puts your apps and wallpaper first. Built for a Fire TV Stick, with a six-column glass-style dock, remote-friendly navigation, and no recommendation feed or home-screen ads.
 
+## Set it up with Claude or Codex
+
+Give your coding assistant [SETUP_WITH_AI.md](SETUP_WITH_AI.md), or paste:
+
+> Help me set up Quiet TV using https://github.com/Kishore121523/quietTV/blob/main/SETUP_WITH_AI.md. Ask about my device and preferences, then build, install, and customize it within the scope I authorize.
+
+The guide walks the assistant through checking your computer, asking the right questions, building the app, optional Home/Sleep setup, customization, verification, and recovery. An assistant with local tools can perform the steps; a chat-only assistant can guide you through them.
+
 ## A personal setup you can make your own
 
 I built Quiet TV for my own Fire TV, remote, favorite apps, and taste. The app order, wallpaper choices, clock time zone, spacing, and animations reflect that personal setup. I’m sharing it as a working starting point so you can build a home screen that suits you.
